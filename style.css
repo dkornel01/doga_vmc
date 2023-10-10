@@ -1,0 +1,10 @@
+.lampa{
+    border: black 3px solid;
+    width: 50px;
+}
+.jatekter{
+    width: 50%;
+    grid-template-columns: 50px 50px 50px;
+    display: grid;
+   
+}
